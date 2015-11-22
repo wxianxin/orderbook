@@ -1,0 +1,21 @@
+U S limit 100 105 testseller
+U S limit 100 104 testseller
+U S limit 100 103 testseller
+U S limit 100 102 testseller
+U S limit 100 101 testseller
+
+U B limit 100 99 testbuyer
+U B limit 100 98 testbuyer
+U B limit 100 97 testbuyer
+U B limit 100 96 testbuyer
+U B limit 100 95 testbuyer
+
+U S market 150 0 Yo
+
+U B limit 150 102 yo
+
+U S limit 300 101 Check
+
+U B market 200 0 it
+
+U S limit 100 99 out!
